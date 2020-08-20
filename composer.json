@@ -2,7 +2,7 @@
   "name": "trive/varnish",
   "type": "magento2-module",
   "description": "Magento 2 Varnish Fixes Module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "proprietary",
   "autoload": {
     "files": [
